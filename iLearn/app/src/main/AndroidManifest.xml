@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LearnActivity" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".HistoryActivity" />
         <activity android:name=".CategoryActivity"></activity>
     </application>
 
